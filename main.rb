@@ -14,4 +14,8 @@ class Main
   def to_git5
     "é isto ai, meu chapa"
   end
+
+  def to_git1
+    "git2"
+  end
 end

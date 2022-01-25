@@ -12,7 +12,7 @@ class Main
   end
   
   def to_git4
-    "git4"
+    "git42"
   end
 
   def to_git5

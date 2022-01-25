@@ -1,6 +1,6 @@
 class Main
-  def to_git
-    "git"
+  def to_git4
+    "git4"
   end
 
   def to_git2
